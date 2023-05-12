@@ -1,0 +1,20 @@
+# NAME
+Blessing Uade Idon
+## DATE OF BIRTH
+May 27th 1990
+## STATE OF ORIGIN
+Edo State
+## LOCAL GOVERNMENT OF ORIGIN
+Owan West
+## NATIONALITY
+Nigeria
+## EDUCATIONAL QUALIFICATION
+Bachelor's Degree in Computer Science
+## NAME OF UNIVERSITY ATTENDED
+UNIVERSITY OF BENIN
+## RELIGION
+Christianity
+## SEX
+MALE
+## MARITAL STATUS
+Single
