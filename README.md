@@ -1,7 +1,7 @@
 # MY PROFILE
 
 # NAME
-**Blessing Uade Idon
+Blessing Uade Idon
 ## DATE OF BIRTH
 May 27th 1990
 ## STATE OF ORIGIN
@@ -19,12 +19,14 @@ Christianity
 ## SEX
 MALE
 ## MARITAL STATUS
-Single**
+Single
 
 ***Email***
 *donbless0527@gmail.com*
+
 ***Github Username***
 *donbless27*
+
 [linkedin address](https://www.linkedin.com/in/blessedboy0527)
 
 ```stl
